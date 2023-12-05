@@ -1,5 +1,5 @@
 # DocAuth - Document forgery Detection Application.
-## Team - Guardian Galaxy
+## Submission for Bajaj Hackathon HackRx 4.0
 
 This is an implementation of a Python script to detect a series of forgeries that can happen in a document. Our basic module supports
 -signature fraud detection and analysis
